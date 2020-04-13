@@ -12,5 +12,6 @@ search: /users/?email=<>
 password_reset : /password_reset/
 ```
 ```
+install packages: pip install -r requirement.txt 
 run: python manage.py runserver
 ```
