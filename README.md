@@ -6,6 +6,7 @@
     password : pass@123
 ```
 ```
+admin:/admin/
 home: /home
 browasble api: ''
 search: /users/?email=<>
