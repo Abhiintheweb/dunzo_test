@@ -11,3 +11,6 @@ browasble api: ''
 search: /users/?email=<>
 password_reset : /password_reset/
 ```
+```
+run: python manage.py runserver
+```
